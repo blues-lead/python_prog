@@ -1,0 +1,8 @@
+*.ova
+*.zip
+*.mp3
+*.pdf
+*.gif
+**/.idea/
+**/__pycache__/
+**/venv/
